@@ -1,0 +1,5 @@
+Number,Customer/Vendor,Invoice/Bill Date,Account,Product,Description,Ordered Qty,Unit of Measure,Unit Price,Taxes,Journal,Amount,Payment Date,Payment No.,Selesperson,Discount
+sh21,Gemini Furniture,2018-03-02,123123,Acoustic Bloc Screens,assss,3,Acoustic Bloc Screens,456,"Lower rate sales (5%), Standard rate sales (20%)","Bank,Cash",222234,2018-03-02,new21,Mitchell Admin,1
+sh21,,,123123,Cabinet with Doors,Apple 2,1,Units,123,,,,,,,2
+sh22,Lumber Inc,2018-03-03,123123,Acoustic Bloc Screens,Apple 4,2,Units,444,,"Bank,Cash",333675,2018-03-03,new22,Marc Demo,3
+sh22,,,123123,Cabinet with Doors,Apple 5,4,Units,555,,,,,,,4
